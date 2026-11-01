@@ -1,0 +1,8 @@
+{
+  "name": "stok-barang",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@azure/storage-blob": "latest"
+  }
+}
