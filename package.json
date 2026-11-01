@@ -3,6 +3,6 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "@azure/storage-blob": "latest"
+    "@vercel/blob": "latest"
   }
 }
